@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'ABeeZee', sans-serif
+}
+
+h1{
+  font-family: 'Allison', cursive;
+}
+
+h2{
+  font-family: 'Besley', serif;
+}
+
+h3{
+  font-family: 'Besley', serif;
+}
+.pear{
+  width: 100px;
+}
+.camel{
+  width: 100px;
+}
+.mineral{
+  width: 100px;
+}
+
+.top-container{
+  background-color: lightblue;
+  position: relative;
+  padding-top: 150px;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 600px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+h1{
+  margin: 0;
+}
+
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+
+.zoo{
+  color: yellow;
+}
