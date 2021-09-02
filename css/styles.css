@@ -10,7 +10,7 @@ hr{
   border-width: 5px 0 0 0;
   color: #EAF6F6;
   margin: 100px auto 100px auto;
-  width: 10%;
+  width: 5%;
 
 }
 
@@ -36,10 +36,20 @@ h3{
 
 a{
   color: #11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
 }
 
 p{
   color: #40514E;
+}
+
+.intro{
+  width: 50%;
+  margin: 0 auto 0 auto;
 }
 
 .skill-row{
@@ -117,7 +127,7 @@ p{
   -webkit-border-radius: 15;
   -moz-border-radius: 15;
   border-radius: 12px;
-  font-family: Arial;
+  font-family: 'ABeeZee', sans-serif;
   margin: 50px auto 50px auto;
   color: #ffffff;
   font-size: 21px;
@@ -152,6 +162,7 @@ p{
 
 .copyright{
   color: #EAF6F6;
+  font-size: 0.75rem;
 }
 
 
